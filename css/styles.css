@@ -36,8 +36,6 @@ p {
   line-height: 1.6;
 }
 
-/* HEADER */
-
 header {
   background: #1d428a;
   color: white;
@@ -74,7 +72,6 @@ nav .nav-links a:hover {
   cursor: pointer;
 }
 
-/* HOME PAGE */
 
 .hero {
   display: flex;
@@ -111,15 +108,11 @@ nav .nav-links a:hover {
   flex: 1;
 }
 
-/* PAGE INTRO */
-
 .page-intro {
   text-align: center;
   max-width: 900px;
   margin: 0 auto 40px auto;
 }
-
-/* TEAM + PLAYER CARDS */
 
 .conference-layout {
   display: flex;
@@ -209,8 +202,6 @@ nav .nav-links a:hover {
   font-size: 1rem;
 }
 
-/* CONTACT PAGE */
-
 .contact-section {
   display: flex;
   justify-content: center;
@@ -219,8 +210,6 @@ nav .nav-links a:hover {
   max-width: 1000px;
   margin: 40px auto 0 auto;
   width: 100%;
-
-  /* dashboard style card */
   background: white;
   padding: 30px;
   border-radius: 12px;
@@ -281,8 +270,6 @@ form button:hover {
   background: #c8102e;
 }
 
-/* CONNECT WITH US ICONS */
-
 .contact-info .social-icons {
   margin-top: 10px;
   display: flex;
@@ -298,8 +285,6 @@ form button:hover {
 .contact-info .social-icons a:hover {
   color: #c8102e;
 }
-
-/* FOOTER */
 
 footer {
   margin-top: 50px;
@@ -332,8 +317,6 @@ footer p {
   margin: 0;
   font-size: 0.95rem;
 }
-
-/* RESPONSIVE */
 
 @media (max-width: 1100px) {
 
